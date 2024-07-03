@@ -1,6 +1,0 @@
-pip install pytest-playwright  =  For run the playwright test
-pip install allure-pytest  = For generate allure report , allure serve allure_result_folder
-pip install pytest-xdist    =  run multiple tests at once
-
-
-pip install -r requirements.txt
